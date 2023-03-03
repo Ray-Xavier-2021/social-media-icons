@@ -2,7 +2,7 @@
 
 This project was built by me using HTML and CSS.
 
-![sign_in_login](https://user-images.githubusercontent.com/78431899/222589635-a76a9acc-2595-4d32-b01e-db3335696f02.png)
+![social-media-icons](https://user-images.githubusercontent.com/78431899/222602044-aedf5c1d-698c-439a-9e0c-11cd4e1048f0.png)
 
 ## Technologies Used
 - HTML
