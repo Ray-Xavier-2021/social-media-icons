@@ -1,0 +1,66 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+
+.container {
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 400px;
+  height: 500px;
+}
+
+/* ICONS */
+
+/* Facebook */
+.facebook,
+.instagram,
+.tik-tok,
+.twitter {
+  border: 1px solid red;
+  border-radius: 12px;
+  display: flex;
+  width: 200px;
+  height: 90px;
+  margin: auto;
+}
+
+.icon {
+  border: 1px solid red;
+  margin: auto;
+  width: 40px;
+}
+
+/* Hover Effects */
+.facebook:hover {
+  background-color: #00f;
+  cursor: pointer;
+}
+
+.instagram:hover {
+  background-color: #e1306c;
+  cursor: pointer;
+}
+
+.tik-tok:hover {
+  border-bottom: 1px dashed #313131;
+  cursor: pointer;
+}
+
+.twitter:hover {
+  border: 1px solid #ffcc00;
+  width: 136px;
+  height: 190px;
+  cursor: pointer;
+  border-radius: 50% 60% 50% 50% / 70% 70% 40% 40%;
+}
